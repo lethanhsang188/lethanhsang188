@@ -35,7 +35,7 @@
 ## 🌱 Current Learning
 
 * Advanced Web Exploitation
-* Threat Hunting & SIEM Correlation Rules (Sigma/YARA)
+* Threat Hunting & SIEM Correlation Rules (Wazuh/Splunk)
 
 ---
 
