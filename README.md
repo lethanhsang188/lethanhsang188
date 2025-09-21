@@ -11,7 +11,7 @@
 * 🔐 **[Pentest-APIkey-Gemini](https://github.com/lethanhsang188/Pentest-APIkey-Gemini)** – AI Agent cho kiểm thử bảo mật API key.
 * 🖥️ **SOC Home Lab** – Wazuh + ELK rules, dashboard, alert lab.
 * 🧩 **CTF Writeups** – Tổng hợp writeups về Web/Rev/Pwn.
-* 🧠 **ROP Emporium Solutions** – Ghi chú và scripts cho ROP.
+.
 
 ---
 
