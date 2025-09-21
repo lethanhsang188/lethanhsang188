@@ -34,7 +34,7 @@
 ## 🌱 Current Learning
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/wazuh/wazuh/master/logos/wazuh-icon-color.png" alt="Wazuh" width="30" style="margin-right:10px;"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Wazuh-2022-Logo.svg" alt="Wazuh Logo" width="50"/>  
   <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" alt="ELK Stack" width="30" style="margin-right:10px;"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/splunk.svg" alt="Splunk" width="60" style="margin-right:10px;"/>
 </p>
