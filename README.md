@@ -6,7 +6,6 @@
 
 ---
 
-
 ## 🚀 Featured Projects
 
 * 🔐 **[Pentest-APIkey-Gemini](https://github.com/lethanhsang188/Pentest-APIkey-Gemini)** – AI Agent cho kiểm thử bảo mật API key.
@@ -34,15 +33,21 @@
 
 ## 🌱 Current Learning
 
-* Advanced Web Exploitation
-* Threat Hunting & SIEM Correlation Rules (Wazuh/Splunk)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/wazuh/wazuh/master/logos/wazuh-icon-color.png" alt="Wazuh" width="30" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" alt="ELK Stack" width="30" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/splunk.svg" alt="Splunk" width="60" style="margin-right:10px;"/>
+</p>
+
+* Advanced Web Exploitation  
+* Threat Hunting & SIEM Correlation Rules  
 
 ---
 
 ## 📫 Contact
 
 * 📧 Email: `sangdn188@gmail.com`
-* 💼 [LinkedIn]((https://www.linkedin.com/in/l%C3%AA-thanh-sang-439400319/))
+* 💼 [LinkedIn](https://www.linkedin.com/in/l%C3%AA-thanh-sang-439400319/)
 * 📝 Blog: *Coming soon*
 
 ---
@@ -50,5 +55,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lethanhsang188&color=blue" alt="Profile Views" />
 </p>
-
----
