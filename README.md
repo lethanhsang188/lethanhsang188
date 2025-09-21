@@ -34,9 +34,15 @@
 ## 🌱 Current Learning
 
 <p align="left">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Wazuh-2022-Logo.svg" alt="Wazuh Logo" width="50"/>  
-  <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" alt="ELK Stack" width="30" style="margin-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/splunk.svg" alt="Splunk" width="60" style="margin-right:10px;"/>
+<img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="50" style="margin-right:10px;"/>
+<img src="https://img.shields.io/badge/Metasploit-4E2A8E?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FD7E14?style=for-the-badge&logo=burpsuite&logoColor=white" />
+
+<img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" alt="Grafana" width="40" style="margin-right:10px;"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/logstash.svg" alt="Logstash" width="50" style="margin-right:10px;"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kibana.svg" alt="Kibana" width="50" style="margin-right:10px;"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/splunk.svg" alt="Splunk" width="60" style="margin-right:10px;"/>
+
 </p>
 
 * Advanced Web Exploitation  
