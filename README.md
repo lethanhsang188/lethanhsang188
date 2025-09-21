@@ -2,7 +2,7 @@
 
 ** Web & API Pentester | SOC Enthusiast**
 
-> "Learning by doing, not just by reading."
+> "Learn, learn more, learn forever."
 
 ---
 
