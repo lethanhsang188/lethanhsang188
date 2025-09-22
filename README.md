@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Lê Thanh Sang**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=3000&pause=1000&color=FF0000&background=00000000&center=true&vCenter=true&width=800&lines=Lê+Thanh+Sang;Cybersecurity+Learner;Web+Pentester;SOC+Enthusiast;CTF+Player;Learn,+learn+more,+learn+forever" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=3000&pause=1000&color=FF0000&background=00000000&center=true&vCenter=true&width=800&lines=Lê+Thanh+Sang;Cybersecurity+Student;Web+Pentester;SOC+Enthusiast;CTF+Player;Learn,+learn+more,+learn+forever" alt="Typing SVG" />
 
 
 ---
