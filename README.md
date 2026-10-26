@@ -1,62 +1,112 @@
-# 👋 Hi, I'm **Lê Thanh Sang**
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=3000&pause=1000&color=FF0000&background=00000000&center=true&vCenter=true&width=800&lines=Lê+Thanh+Sang;Cybersecurity+Student;Web+Pentester;SOC+Enthusiast;CTF+Player;Learn,+learn+more,+learn+forever" alt="Typing SVG" />
+# 👋 Hi there, I'm **Lê Thanh Sang**
 
-
----
-
-## 🚀 Featured Projects
-
-* 🔐 **[Pentest-APIkey-Gemini](https://github.com/lethanhsang188/Pentest-APIkey-Gemini)** – AI Agent cho kiểm thử bảo mật API key.
-* 🖥️ **SOC Home Lab** – Wazuh + ELK rules, dashboard, alert lab.
-* 🧩 **CTF Writeups** – Tổng hợp writeups về Web/Rev/Pwn.
-.
-
----
-
-## 📊 GitHub Stats
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=Cybersecurity+Student+%26+Researcher;Prompt+Engineer+%26+LLM+Security;Web+Pentester+%7C+CTF+Player;SOC+Enthusiast+%7C+Threat+Hunter;Learn,+learn+more,+learn+forever" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lethanhsang188&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <b>Passionate about Cybersecurity & AI Engineering</b><br>
+  Exploring the intersection of <i>Offensive Security, SOC Operations</i>, and <i>Prompt Engineering / LLM Security</i>.
+</p>
+
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/l%C3%AA-thanh-sang-439400319/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sangdn188@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/lethanhsang188">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- 🛡️ **Cybersecurity Focus**: Web Penetration Testing (OWASP Top 10), SOC Analytics, SIEM Detection Rules, and CTF Challenges (Web/Rev/Pwn).
+- 🤖 **AI & Prompt Engineering**: Nghiên cứu xây dựng AI Agents, tối ưu System Prompts, Few-shot prompting, và kiểm thử bảo mật LLM (Prompt Injection, Jailbreaking, API Security).
+- 🔭 **Current Focus**: Xây dựng AI Agent hỗ trợ Pentest tự động & hoàn thiện SOC Home Lab.
+- 🎯 **Goals**: Phát triển năng lực Red Team & Security Automation bằng GenAI.
+
+---
+
+### 🛠️ Tech Stack & Skillset
+
+<table align="center" width="100%">
+  <tr>
+    <td width="25%" valign="top">
+      <b>🤖 AI & Prompt Engineering</b><br><br>
+      <img src="https://img.shields.io/badge/Prompt_Engineering-00A67E?style=flat-square&logo=openai&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Google_Gemini_API-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/LLM_Security-FF3366?style=flat-square&logo=shield&logoColor=white" />
+    </td>
+    <td width="25%" valign="top">
+      <b>⚔️ Offensive Security</b><br><br>
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Metasploit-136FA3?style=flat-square&logo=metasploit&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+    </td>
+    <td width="25%" valign="top">
+      <b>🛡️ Defensive & SOC</b><br><br>
+      <img src="https://img.shields.io/badge/Wazuh_SIEM-002F6C?style=flat-square&logo=wazuh&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+    </td>
+    <td width="25%" valign="top">
+      <b>💻 Code & Systems</b><br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🔐 **[Pentest-APIkey-Gemini](https://github.com/lethanhsang188/Pentest-APIkey-Gemini)** | AI Agent tự động hóa kiểm thử bảo mật & phát hiện rủi ro lộ/lạm dụng Gemini API Key. Áp dụng kỹ thuật Prompt Engineering nâng cao để phân tích lỗ hổng. | `Python` `Gemini API` `Prompt Engineering` `AI Agent` |
+| 🖥️ **SOC Home Lab** | Môi trường giám sát an ninh mạng sử dụng Wazuh SIEM tích hợp ELK Stack; thiết lập correlation rules và dashboard cảnh báo tấn công. | `Wazuh` `ELK Stack` `Sysmon` `Threat Hunting` |
+| 🧩 **CTF Writeups** | Kho tổng hợp lời giải và kỹ thuật khai thác các bài thi CTF (Web Exploitation, Reverse Engineering, Binary Exploitation). | `Web Pentest` `Ghidra` `GDB` `Pwntools` |
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lethanhsang188&show_icons=true&theme=radical&hide_border=true&title_color=00FF66&icon_color=00FF66" height="155" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethanhsang188&layout=compact&theme=radical&hide_border=true&title_color=00FF66" height="155" alt="Top Languages" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lethanhsang188&theme=radical&hide_border=true&stroke=00FF66" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:sangdn188@gmail.com"><img src="https://img.shields.io/badge/Email-sangdn188%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/l%C3%AA-thanh-sang-439400319/"><img src="https://img.shields.io/badge/LinkedIn-Lê_Thanh_Sang-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lethanhsang188&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethanhsang188&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 🌱 Current Learning
-
-<p align="left">
-<img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="50" style="margin-right:10px;"/>
-<img src="https://img.shields.io/badge/Metasploit-4E2A8E?style=for-the-badge&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp%20Suite-FD7E14?style=for-the-badge&logo=burpsuite&logoColor=white" />
-
-<img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" alt="Grafana" width="40" style="margin-right:10px;"/>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/logstash.svg" alt="Logstash" width="50" style="margin-right:10px;"/>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kibana.svg" alt="Kibana" width="50" style="margin-right:10px;"/>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/splunk.svg" alt="Splunk" width="60" style="margin-right:10px;"/>
-
-</p>
-
-* Advanced Web Exploitation  
-* Threat Hunting & SIEM Correlation Rules  
-
----
-
-## 📫 Contact
-
-* 📧 Email: `sangdn188@gmail.com`
-* 💼 [LinkedIn](https://www.linkedin.com/in/l%C3%AA-thanh-sang-439400319/)
-* 📝 Blog: *Coming soon*
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lethanhsang188&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=lethanhsang188&color=00FF66&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
