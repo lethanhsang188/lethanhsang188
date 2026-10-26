@@ -3,12 +3,12 @@
 # 👋 Hi there, I'm **Lê Thanh Sang**
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=Cybersecurity+Student+%26+Researcher;Prompt+Engineer+%26+LLM+Security;Web+Pentester+%7C+CTF+Player;SOC+Enthusiast+%7C+Threat+Hunter;Learn,+learn+more,+learn+forever" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=Cybersecurity+Engineer+%26+Researcher;Prompt+Engineer+%26+LLM+Security;Web+Pentester+%7C+SOC+Analyst;Threat+Hunter+%7C+CTF+Player;Learn,+learn+more,+learn+forever" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <b>Passionate about Cybersecurity & AI Engineering</b><br>
-  Exploring the intersection of <i>Offensive Security, SOC Operations</i>, and <i>Prompt Engineering / LLM Security</i>.
+  <b>Cybersecurity Professional & Prompt Engineer</b><br>
+  Specializing in <i>Offensive Security, SOC Operations</i>, and <i>Prompt Engineering / LLM Security</i>.
 </p>
 
 <!-- Social Badges -->
@@ -30,10 +30,10 @@
 
 ### 👨‍💻 About Me
 
-- 🛡️ **Cybersecurity Focus**: Web Penetration Testing (OWASP Top 10), SOC Analytics, SIEM Detection Rules, and CTF Challenges (Web/Rev/Pwn).
-- 🤖 **AI & Prompt Engineering**: Nghiên cứu xây dựng AI Agents, tối ưu System Prompts, Few-shot prompting, và kiểm thử bảo mật LLM (Prompt Injection, Jailbreaking, API Security).
-- 🔭 **Current Focus**: Xây dựng AI Agent hỗ trợ Pentest tự động & hoàn thiện SOC Home Lab.
-- 🎯 **Goals**: Phát triển năng lực Red Team & Security Automation bằng GenAI.
+- 🛡️ **Cybersecurity Expertise**: Web Penetration Testing (OWASP Top 10), SOC Analytics, Threat Hunting, SIEM Correlation Rules, and CTF Challenges.
+- 🤖 **AI & Prompt Engineering**: Chuyên sâu xây dựng System Prompts, Chain-of-Thought, Context Engineering trên **ChatGPT** & **Claude**; kiểm thử an toàn mô hình ngôn ngữ lớn (LLM Red Teaming, Prompt Injection & Jailbreaking).
+- 🔭 **Current Focus**: Tự động hóa quy trình Pentest và Threat Detection với sức mạnh của GenAI / AI Agents.
+- 🎯 **Mission**: Xây dựng hệ thống phòng thủ vững chắc và khai phóng sức mạnh của AI trong an toàn thông tin.
 
 ---
 
@@ -44,8 +44,8 @@
     <td width="25%" valign="top">
       <b>🤖 AI & Prompt Engineering</b><br><br>
       <img src="https://img.shields.io/badge/Prompt_Engineering-00A67E?style=flat-square&logo=openai&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Google_Gemini_API-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/LLM_Security-FF3366?style=flat-square&logo=shield&logoColor=white" />
     </td>
     <td width="25%" valign="top">
@@ -81,9 +81,9 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🔐 **[Pentest-APIkey-Gemini](https://github.com/lethanhsang188/Pentest-APIkey-Gemini)** | AI Agent tự động hóa kiểm thử bảo mật & phát hiện rủi ro lộ/lạm dụng Gemini API Key. Áp dụng kỹ thuật Prompt Engineering nâng cao để phân tích lỗ hổng. | `Python` `Gemini API` `Prompt Engineering` `AI Agent` |
-| 🖥️ **SOC Home Lab** | Môi trường giám sát an ninh mạng sử dụng Wazuh SIEM tích hợp ELK Stack; thiết lập correlation rules và dashboard cảnh báo tấn công. | `Wazuh` `ELK Stack` `Sysmon` `Threat Hunting` |
-| 🧩 **CTF Writeups** | Kho tổng hợp lời giải và kỹ thuật khai thác các bài thi CTF (Web Exploitation, Reverse Engineering, Binary Exploitation). | `Web Pentest` `Ghidra` `GDB` `Pwntools` |
+| 🔐 **[Pentest-APIkey-Gemini](https://github.com/lethanhsang188/Pentest-APIkey-Gemini)** | AI Agent tự động hóa kiểm thử bảo mật & phát hiện rủi ro rò rỉ API Key. Sử dụng kỹ thuật Prompt Engineering nâng cao để phân tích và đánh giá lỗ hổng. | `Python` `AI Agent` `Prompt Engineering` `API Security` |
+| 🖥️ **SOC Home Lab** | Môi trường giám sát an ninh mạng với Wazuh SIEM tích hợp ELK Stack; thiết lập correlation rules và dashboard phát hiện tấn công theo thời gian thực. | `Wazuh` `ELK Stack` `Sysmon` `Threat Hunting` |
+| 🧩 **CTF Writeups** | Kho tổng hợp writeups chi tiết về các kỹ thuật khai thác Web Exploitation, Reverse Engineering và Binary Exploitation. | `Web Pentest` `Ghidra` `GDB` `Pwntools` |
 
 ---
 
