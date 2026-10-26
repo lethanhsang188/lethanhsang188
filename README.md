@@ -1,14 +1,14 @@
 <div align="center">
 
-# 👋 Hi there, I'm **Lê Thanh Sang**
+# 👋 Hi there, I'm **Le Thanh Sang**
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=Cybersecurity+Engineer+%26+Researcher;Prompt+Engineer+%26+LLM+Security;Web+Pentester+%7C+SOC+Analyst;Threat+Hunter+%7C+CTF+Player;Learn,+learn+more,+learn+forever" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=Cybersecurity+Engineer+%26+Researcher;Prompt+Engineer+%26+LLM+Security;AWS+Cloud+Security+%7C+Web+Pentester;Cloud+Architect+%7C+CTF+Player;Learn,+learn+more,+learn+forever" alt="Typing SVG" />
 </a>
 
 <p align="center">
   <b>Cybersecurity Professional & Prompt Engineer</b><br>
-  Specializing in <i>Offensive Security, SOC Operations</i>, and <i>Prompt Engineering / LLM Security</i>.
+  Specializing in <i>Web Security, AWS Cloud Architecture</i>, and <i>Prompt Engineering / LLM Security</i>.
 </p>
 
 <!-- Social Badges -->
@@ -30,10 +30,10 @@
 
 ### 👨‍💻 About Me
 
-- 🛡️ **Cybersecurity Expertise**: Web Penetration Testing (OWASP Top 10), SOC Analytics, Threat Hunting, SIEM Correlation Rules, and CTF Challenges.
-- 🤖 **AI & Prompt Engineering**: Chuyên sâu xây dựng System Prompts, Chain-of-Thought, Context Engineering trên **ChatGPT** & **Claude**; kiểm thử an toàn mô hình ngôn ngữ lớn (LLM Red Teaming, Prompt Injection & Jailbreaking).
-- 🔭 **Current Focus**: Tự động hóa quy trình Pentest và Threat Detection với sức mạnh của GenAI / AI Agents.
-- 🎯 **Mission**: Xây dựng hệ thống phòng thủ vững chắc và khai phóng sức mạnh của AI trong an toàn thông tin.
+- 🛡️ **Cybersecurity & Cloud**: Specializing in Web Application Penetration Testing (OWASP Top 10), AWS Cloud Security Architecture, IAM Least Privilege, S3 Hardening, VPC Peering & Isolation, and CTF Challenges.
+- 🤖 **AI & Prompt Engineering**: Designing advanced System Prompts, Chain-of-Thought, and Context Engineering for **ChatGPT** & **Claude**; performing LLM Red Teaming, Prompt Injection, and Jailbreak assessments.
+- 🔭 **Current Focus**: Cloud Security Automation on AWS and integrating GenAI / AI Agents into automated security workflows.
+- 🎯 **Mission**: Architecting resilient, scalable AWS environments while securely harnessing the power of Artificial Intelligence.
 
 ---
 
@@ -57,15 +57,15 @@
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
     </td>
     <td width="25%" valign="top">
-      <b>🛡️ Defensive & SOC</b><br><br>
-      <img src="https://img.shields.io/badge/Wazuh_SIEM-002F6C?style=flat-square&logo=wazuh&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+      <b>☁️ Cloud & AWS</b><br><br>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" />
     </td>
     <td width="25%" valign="top">
-      <b>💻 Code & Systems</b><br><br>
+      <b>💻 Code & Infrastructure</b><br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /><br>
@@ -81,9 +81,9 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🔐 **[Pentest-APIkey-Gemini](https://github.com/lethanhsang188/Pentest-APIkey-Gemini)** | AI Agent tự động hóa kiểm thử bảo mật & phát hiện rủi ro rò rỉ API Key. Sử dụng kỹ thuật Prompt Engineering nâng cao để phân tích và đánh giá lỗ hổng. | `Python` `AI Agent` `Prompt Engineering` `API Security` |
-| 🖥️ **SOC Home Lab** | Môi trường giám sát an ninh mạng với Wazuh SIEM tích hợp ELK Stack; thiết lập correlation rules và dashboard phát hiện tấn công theo thời gian thực. | `Wazuh` `ELK Stack` `Sysmon` `Threat Hunting` |
-| 🧩 **CTF Writeups** | Kho tổng hợp writeups chi tiết về các kỹ thuật khai thác Web Exploitation, Reverse Engineering và Binary Exploitation. | `Web Pentest` `Ghidra` `GDB` `Pwntools` |
+| 🔐 **[Pentest-APIkey-Gemini](https://github.com/lethanhsang188/Pentest-APIkey-Gemini)** | AI-driven security testing agent designed to detect API key leakage and misuse risks. Employs advanced prompt engineering techniques to analyze vulnerability surfaces and potential exploitation paths. | `Python` `AI Agent` `Prompt Engineering` `API Security` |
+| ☁️ **AWS Cloud Security Lab** | Infrastructure security project on AWS: enforcing IAM Least Privilege, securing S3 storage policies, hardening VPC network boundaries, and setting up automated incident alerts via CloudWatch. | `AWS` `IAM` `S3` `CloudWatch` `Cloud Security` |
+| 🧩 **CTF Writeups** | Comprehensive collection of technical writeups covering Web Exploitation, Reverse Engineering, and Binary Exploitation (Pwn). | `Web Pentest` `Ghidra` `GDB` `Pwntools` |
 
 ---
 
@@ -104,7 +104,7 @@
 
 <p align="center">
   <a href="mailto:sangdn188@gmail.com"><img src="https://img.shields.io/badge/Email-sangdn188%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/l%C3%AA-thanh-sang-439400319/"><img src="https://img.shields.io/badge/LinkedIn-Lê_Thanh_Sang-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/l%C3%AA-thanh-sang-439400319/"><img src="https://img.shields.io/badge/LinkedIn-Le_Thanh_Sang-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
